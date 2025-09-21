@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useRef } from 'react';
-
 // The full CSS from the original HTML file, adapted for React
 const styles = `
     @keyframes liquid-gradient-animation {
